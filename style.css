@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(3, 255, 3);
+  }
+  
+  h1 {
+    color: rgb(255, 0, 255);
+    margin-left: 20px;
+  }
+  p {
+    color: rgb(0, 0, 0);
+    margin-left: 20px;
+  }
+  #joke {
+    color: rgb(255, 3, 3);
+    margin-left: 20px;
+    font-family: 'Comic Sans MS', cursive;
+    font-size: 40px 
+  }
+  #qoute {
+    color: rgb(28, 3, 255);
+    margin-left: 20px;
+    font-family: 'Times', Italic;
+    font-size: 40px 
